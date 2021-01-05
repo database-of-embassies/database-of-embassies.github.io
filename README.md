@@ -1,1 +1,1 @@
-# database-of-embassies.github.io
+[Database of embassies](https://database-of-embassies.github.io)
